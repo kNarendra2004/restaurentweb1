@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.nav-bar-logo{
+    height: 70px;
+    width: 100px;
+}
+#navItem1{
+    color:#323f4b;
+    font-family:roboto;
+}
+#navItem2{
+    color:#323f4b;
+    font-family:roboto;
+}
+#navItem3{
+    color:#323f4b;
+    font-family:roboto;
+}
+#navItem4{
+    color:#323f4b;
+    font-family:roboto;
+}
+.banner-section-bg-container{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+.banner-heading{
+    color:white;
+    text-align: center;
+    font-family: roboto;
+    font-size: 50px;
+}
+.banner-paragraph{
+    color:white;
+    text-align: center;
+    font-weight: 700;
+}
+.button1{
+    background-color:rgb(186, 186, 33);
+    border-radius: 10px;
+    border-width:0px;
+    color:white;
+    margin: 10px;
+    height: 40px;
+    width: 120px;
+}
+.button2{
+    background-color:transparent;
+    color:yellow;
+    border-radius: 10px;
+    border-color:yellow;
+    border-width: 2px;
+    margin: 10px;
+    height: 40px;
+    width: 120px;
+}
+.section-wcu{
+    background-color: #f9fbfe;
+}
+.wcu-card{
+  text-align: center;
+  background-color: white;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #e5eaf4;
+  border-radius: 16px;
+  padding: 10px;
+  
+}
+.wcu-heading{
+    font-weight: 700;
+    font-family:roboto;
+    font-size: 28px;
+    color:#183b56;
+    padding: 10px;
+}
+.wcu-paragraph{
+    font-size: 16px;
+    font-color:black;
+    padding: 10px;
+}
+.wcu-card-image{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+.wcu-heading1{
+    text-align: center;
+    font-size: 20px;
+}
+.wcu-paragraph1{
+    text-align: center;
+}
+.offers{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.explore-menu-section{
+    background-color: white;
+}
+.menu-section-heading{
+    font-weight: 700;
+    font-size: 28px;
+    font-family: roboto;
+    color:#183b56;
+}
+.menu-card-img{
+    border-radius: 15px;
+}
+.menu-card{
+ background-color: white;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #e5eaf4;
+  border-radius: 16px;
+  padding: 10px;
+}
+.menu-card-heading{
+    font-weight: 700;
+    font-family: roboto;
+}
+.menu-card-link{
+    color:rgb(241, 241, 9);
+    font-size: 14px;
+    font-style: roboto;
+    font-weight: 700;
+}
+.hf-button{
+    color:white;
+    background-color: rgb(191, 147, 14);
+    height: 50px;
+    width: 120px;
+    border-radius: 10px;
+    border-width: 0px;
+
+
+}
+.payment-card-img{
+    height: 50px;
+    width: 50px;
+    margin-right: 25px;
+    
+}
+.tk-bg-container{
+    background-image:radial-gradient(#fff8db,#fae38c) ;
+
+}
+.tk-img{
+    height: 250px;
+    width: 250px;
+}
+.tk-card-heading{
+    padding:20px;
+    
+}
+.fu-heading{
+    color:black;
+    font-size: 35px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+.icon{
+    font-size: 40px;
+    
+}
+.icon-bg-container{
+    background-color: palegoldenrod;
+    padding: 15px;
+    border-radius: 35px;
+    margin: 25px;
+    text-align: center;
+
+}
+.tk-model-title{
+    background-image: linear-gradient(#d0b200,#a58d00);
+    font-weight: 800;
+}
